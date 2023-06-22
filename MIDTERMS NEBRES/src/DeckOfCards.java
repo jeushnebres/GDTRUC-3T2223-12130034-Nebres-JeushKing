@@ -28,7 +28,7 @@ public class DeckOfCards {
                 case 0:
                     drawCards(count);
                     break;
-                case 1: /
+                case 1:
                     discardCards(count);
                     break;
                 case 2:
